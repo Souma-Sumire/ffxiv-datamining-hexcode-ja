@@ -12,3 +12,4 @@ int32,str,str
 7,"TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_100_000","グラナリーオフィスでは、探索隊を派遣して、<hex:02100103>開拓素材を集めることができます！<hex:02100103>探索隊の派遣をご希望でしたら、お声がけください！"
 8,"TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_SYSTEM_100_000","（★未使用／削除予定★）"
 9,"TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_200_000","こんにちは！<hex:02100103>こちらは島主様専用の施設のため、<hex:02100103>お客様にはご利用いただけません……！"
+10,"TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_300_000","あなたが洞窟への入口を見つけてくれたおかげで、<hex:02100103>洞窟に、ぼくらの探索隊を派遣できるようになりました！<hex:02100103>これからも無人島での生活に、ぼくらをお役立てくださいね！"
