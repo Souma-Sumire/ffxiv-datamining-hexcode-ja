@@ -3726,7 +3726,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3721,"回転角3倍","次に発動する攻撃の回転角が3倍になる状態。",16748,0,0,1,2,17,0,False,False,False,False,False,False,False,True,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3722,"回転角4倍","次に発動する攻撃の回転角が4倍になる状態。",0,0,0,1,2,17,0,False,False,False,False,False,False,False,True,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3723,"爆撃目標","標的となった状態。効果時間が終了すると、周囲に双数爆撃が発動する。",16750,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3724,"減算爆雷α","減算爆雷が付着し、効果時間が終了すると大爆発を起こす状態。地雷魔紋の攻撃を受けることでスタック数が減少し、0になると解除される。",18391,0,4,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,27,False,0,False,0,False,0,0,0,False
+3724,"減算爆雷α","減算爆雷が付着し、戦闘不能時に大爆発を起こす状態。地雷魔紋の攻撃を受けることでスタック数が減少し、0になると解除される。",18391,0,4,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,27,False,0,False,0,False,0,0,0,False
 3725,"減算爆雷β","減算爆雷が付着し、効果時間が終了すると大爆発を起こす状態。立体魔紋の攻撃を受けることでスタック数が減少し、0になると解除される。",18396,0,4,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,27,False,0,False,0,False,0,0,0,False
 3726,"正面未解析","身体の正面のみ急所を見抜かれていない状態。<hex:02100103>背面、右側、左側から攻撃を受けると、大ダメージを受ける。",15369,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,100,0,False,False,0,28,True,0,False,0,False,0,0,0,False
 3727,"背面未解析","身体の背面のみ急所を見抜かれていない状態。<hex:02100103>正面、右側、左側から攻撃を受けると、大ダメージを受ける。",15941,89,0,1,2,17,0,False,False,False,False,False,False,False,True,True,100,0,False,False,0,28,True,0,False,0,False,0,0,0,False
