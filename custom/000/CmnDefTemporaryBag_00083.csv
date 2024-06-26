@@ -6,7 +6,7 @@ int32,str,str
 1,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_Q1","どうする？"
 2,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A1","遺失物を探してもらう"
 3,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A2","遺失物について説明を聞く"
-4,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A3","やめる"
+4,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A3","キャンセル"
 5,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_05","霊災にて持ち主が行方不明になった品を、<hex:02100103>我々、冒険者ギルドが預かっているのです。<hex:02100103>持ち主や遺族の方が見つけて返還するためにね。"
 6,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_06","もちろん、我々は貸倉庫をやっている訳ではありません。<hex:02100103>一度、返還した品を、ふたたび預かることは<hex:02100103>できませんから、あしからず。"
 7,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_10","近頃では、遺失物を引き取りに来る人も<hex:02100103>めっきり少なくなってしまいました。"

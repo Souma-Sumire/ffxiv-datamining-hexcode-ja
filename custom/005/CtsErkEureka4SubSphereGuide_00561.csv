@@ -21,7 +21,7 @@ int32,str,str
 16,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_A2_000_004","戻る"
 17,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_ENG00465_000_040","マギアボードのさらなる改良で、<hex:02100103>最大7個まで魔晶石を組み込めるようになります。<hex:02100103>改良に合わせて7つ目をお渡しするので、活用してください！"
 18,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_SYSTEM_000_041","マギアボードのさらなる改良を行うことで、<hex:02100103>組み込める魔晶石の数がひとつ増えます。"
-19,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_SYSTEM_100_041","なお、マギアボードのさらなる改良は、<hex:02100103>「<hex:02281CFF17>ContentFinderCondition<hex:E8022A03>」で、<hex:02100103>マギアボードの改良を行っていなくとも、行うことができます。"
+19,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_SYSTEM_100_041","なお、マギアボードのさらなる改良は、<hex:02100103>「<hex:02281CFF17>ContentFinderCondition<hex:E8022B03>」で、<hex:02100103>マギアボードの改良を行っていなくとも、行うことができます。"
 20,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_ENG00465_000_050","マギアボードのさらなる改良には、<hex:02100103>やはりそれ相応の素材が必要でして……。<hex:02100103>条件に合うものを、探してきていただけますか？"
 21,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_SYSTEM_000_051","マギアボードのさらなる改良には「<hex:02280BFF05>Item<hex:F260F10103>」、<hex:02100103>「<hex:02280BFF05>Item<hex:F260F20103>」、「<hex:02280BFF05>Item<hex:F260F30103>」が、<hex:02100103>1個ずつ必要になります。"
 22,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_ENG00465_000_060","7つ目としてお渡しする予定の魔晶石は、<hex:02100103>6つ目と同じく、魔晶片に専用の調整を施した特殊なものです。<hex:02100103>当然、性能に関しては通常のものと変わらないので、ご安心を。"
