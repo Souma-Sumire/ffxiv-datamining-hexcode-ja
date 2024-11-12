@@ -108,3 +108,5 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 103,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>が<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>のメッセージを削除しました。",16,23,0,5,11
 104,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>が交流帳設定を変更しました。",16,0,0,5,11
 105,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>がタグを設定しました。",16,0,0,5,11
+106,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>が「<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>」の内装をリフォームしました。",16,15,0,5,11
+107,"",0,0,0,0,0

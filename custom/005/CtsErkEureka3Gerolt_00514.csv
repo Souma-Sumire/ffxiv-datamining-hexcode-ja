@@ -88,7 +88,7 @@ int32,str,str
 83,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_317","そりゃ、俺もどうしてそうなるのか聞きはしたンだが、<hex:02100103>専門用語と数式が絡む、最先端のエーテル学が核心でよ。<hex:02100103>表面上の、環境エーテルが最適ってことしか理解できなかった。"
 84,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_318","俺がいくら天才でも、さすがにエーテル学は専門外だからな。<hex:02100103>……そういや、嬢ちゃんも専門じゃないなんて言っていたが、<hex:02100103>最先端分野も押さえてるとは、研究者は伊達じゃねぇってことか。"
 85,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_319","……おっと、話がずれた。<hex:02100103>ともかく、理論はさておいて、それで触媒は作れるンだ。<hex:02100103>能力を付与したいなら、ピューロス帯で頑張るこった。"
-86,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_320","「<hex:02281CFF17>ContentFinderCondition<hex:E8022B03>」で、エネミーを討伐すると、<hex:02100103>エウレカケトルに、混合エーテルが蓄積されるようになりました。"
+86,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_320","「<hex:02281CFF17>ContentFinderCondition<hex:E8022C03>」で、エネミーを討伐すると、<hex:02100103>エウレカケトルに、混合エーテルが蓄積されるようになりました。"
 87,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_321","ピューロス帯に存在する「<hex:02280CFF05>EObj<hex:F61EAA2E0103>」を使用することで、<hex:02100103>蓄積された混合エーテルを消費し、<hex:02100103>「<hex:02280BFF05>Item<hex:F25E3A0103>」を入手できます。"
 88,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_322","この「<hex:02280BFF05>Item<hex:F25E3A0103>」は、<hex:02100103>「エウレカウェポン・ピューロス」に、<hex:02100103>サブパラメータを付与する際、一定数消費します。"
 89,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_323","なお、サブパラメータの付与は、<hex:02100103>「<hex:02280CFF05>EObj<hex:F61EAA2F0103>」の「サブパラメータの付与」を、<hex:02100103>選択することで行なえます。"

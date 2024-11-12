@@ -37,5 +37,5 @@ int32,str,str
 32,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_027","……あっ。<hex:02100103>ご、ごめんなさい、ぼうっとしちゃって。<hex:02100103>詳しい話は、拠点で話しましょう。"
 33,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_030","中継エーテライトが起動している。<hex:02100103>ほかの地域へ転移するためには、調整が必要らしい……。"
 34,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_040","中継エーテライトが起動している。<hex:02100103>調整は完了しており、ほかの地域へ転移可能だ。"
-35,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_041","「<hex:02281CFF17>ContentFinderCondition<hex:E8022B03>」から退出し、<hex:02100103>クガネにいる「ロドニー」に話しかけることで、<hex:02100103>ほかの地域へ向かうことができます。"
+35,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_041","「<hex:02281CFF17>ContentFinderCondition<hex:E8022C03>」から退出し、<hex:02100103>クガネにいる「ロドニー」に話しかけることで、<hex:02100103>ほかの地域へ向かうことができます。"
 36,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_TALK_ACTOR","（★未使用／削除予定★）"
