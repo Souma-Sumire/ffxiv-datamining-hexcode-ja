@@ -18348,7 +18348,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 18343,0,False,False,False,2,0,3,False,False,1,25,"ウイウイ～"
 18344,0,False,False,False,2,0,3,False,False,1,25,"シュィーン"
 18345,0,False,False,False,0,0,0,False,False,0,0,""
-18346,0,False,False,False,0,0,0,False,False,0,0,""
+18346,0,False,False,False,2,0,3,False,False,1,25,"真ノ闇ニ溶ケルガイイ！"
 18347,0,False,False,False,2,0,3,False,False,1,25,"君ノ健闘ニ感謝ヲ"
 18348,0,False,False,False,2,0,3,False,False,1,25,"シュポポ"
 18349,0,False,False,False,0,0,0,False,False,0,0,""
