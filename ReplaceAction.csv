@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,,,,,,,,,,,,
+#,Action,Type1,Param1,ReplaceAction1,Type2,Param2,ReplaceAction2,Type3,Param3,ReplaceAction3,ReplaceSettable,
 offset,0,22,16,4,23,18,8,24,20,12,25,26
-int32,int32,sbyte,int16,int32,sbyte,int16,int32,sbyte,int16,int32,sbyte,bit&01
+int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 0.0,0,0,0,0,0,0,0,0,0,0,-1,False
 1.0,28,2,79,32065,0,0,0,0,0,0,-1,False
 1.1,21,3,260,3539,0,0,0,0,0,0,-1,False

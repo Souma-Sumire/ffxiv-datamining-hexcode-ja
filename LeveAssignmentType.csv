@@ -1,7 +1,7 @@
 ﻿key,0,1
-#,IsFaction,Icon
+#,Icon,Name
 offset,4,0
-int32,int32,Image
+int32,Image,str
 0,0,""
 1,62501,"傭兵稼業"
 2,62510,"採掘師"

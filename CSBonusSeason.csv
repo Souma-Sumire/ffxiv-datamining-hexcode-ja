@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
-#,,,,,,,,,,,,,
+#,,,,,,Item,Category[0],Category[1],Category[2],Category[3],Text[0],Text[1],
 offset,21,4,6,19,20,0,8,10,12,14,16,17,18
-int32,bit&01,uint16,uint16,bool,bool,uint32,uint16,uint16,uint16,uint16,byte,byte,byte
+int32,bit&01,uint16,uint16,bool,bool,Item,uint16,uint16,uint16,uint16,CSBonusTextData,CSBonusTextData,byte
 0,False,0,0,False,False,0,0,0,0,0,0,0,1
 1,False,0,0,False,False,0,0,0,0,0,0,0,1
 2,True,2,4,True,False,41305,1,2,3,4,1,2,26
@@ -16,4 +16,8 @@ int32,bit&01,uint16,uint16,bool,bool,uint32,uint16,uint16,uint16,uint16,byte,byt
 11,False,0,0,False,False,0,0,0,0,0,0,0,1
 12,True,12,0,True,False,44348,13,14,15,16,1,5,26
 13,True,12,0,True,False,0,0,0,0,0,0,0,1
-14,False,0,0,False,False,0,0,0,0,0,0,0,0
+14,False,12,0,True,False,0,0,0,0,0,0,0,1
+15,False,0,0,False,False,0,0,0,0,0,0,0,1
+16,True,16,0,True,False,46322,17,18,19,20,1,6,26
+17,True,16,0,True,False,0,0,0,0,0,0,0,1
+18,False,0,0,False,False,0,0,0,0,0,0,0,0

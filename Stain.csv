@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6
-#,Color,Shade,SubOrder,Name,,,
+#,Color,Shade,SubOrder,Name,Name2,,
 offset,8,12,13,0,4,14,14
 int32,Color,byte,byte,str,str,bit&01,bit&02
 0,0,2,1,"","染色無し",False,True
@@ -123,3 +123,11 @@ int32,Color,byte,byte,str,str,bit&01,bit&02
 118,6214886,10,18,"メタリックスカイブルー","メタリックスカイブルー",True,False
 119,5264089,10,19,"メタリックブルー","メタリックブルー",True,False
 120,10708674,10,20,"メタリックパープル","メタリックパープル",True,False
+121,0,0,0,"","",False,False
+122,0,0,0,"","",False,False
+123,0,0,0,"","",False,False
+124,0,0,0,"","",False,False
+125,0,0,0,"","",False,False
+126,0,0,0,"","",False,False
+127,0,0,0,"","",False,False
+128,0,0,0,"","",False,False
